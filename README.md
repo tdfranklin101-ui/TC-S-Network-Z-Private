@@ -1,22 +1,22 @@
-# TC-S-Network-Z-Private
+# TC-S Network Z-Private
 
-Enterprise commissioning portal (private)
+Secure member-only features and private network access.
 
-## Part of TC-S Network Platform
+## Features
 
-This repository is part of the TC-S Network 14-repository microservices architecture. All services connect to a shared Supabase database and work together as a cohesive platform.
+- Member authentication
+- Secure messaging
+- Private content distribution
+- Member-only resources
 
 ## Setup
 
 ```bash
 npm install
+cp .env.example .env
 npm run dev
 ```
 
-## Documentation
-
-See the main [TC-S Network documentation](https://github.com/tdfranklin101-ui/TC-S-Network-Shared) for complete setup instructions.
-
 ## License
 
-MIT © TC-S Network Foundation
+MIT - TC-S Network Foundation
