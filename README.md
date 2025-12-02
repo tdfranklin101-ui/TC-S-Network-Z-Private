@@ -12,3 +12,6 @@ This app is part of the TC-S Network Constellation.
 - Hook this folder up to its own GitHub repo named `TC-S-Network-Z-Private`.
 - Import that repo into Vercel as a project.
 - Replace `src/` with your actual framework of choice (Next.js, Remix, etc.).
+
+---
+*Deployed: 2025-12-02T05:20:08Z*
